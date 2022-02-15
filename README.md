@@ -21,3 +21,40 @@ svm: 支持向量机
 knn: k近邻算法
 k_means: k平均聚类算法
 decision_tree: 决策树（ide3、c4.5）
+
+后续更新会加入集成算法和最新的深度学习代码套件，有问题可以加vx交流：13997171940
+
+
+This is a machine learning library based on golang and some machine learning data sets. It can be used as auxiliary code for learning or demo of small projects. There is no special design for the convergence and divergence of results, which can be considered according to specific problems
+
+
+
+Basic Toolkit:
+
+read_ Excel: read Excel data in a specific format and return float64 or string
+
+test_ Data: a micro data set used to test the algorithm, including a directory
+
+Entropy: used to calculate some information about entropy
+
+math_ Tool: some commonly used mathematical tools (NN Full Permutation, NK Full Permutation, multivariate integral numerical solution)
+
+
+
+Fundamentals of machine learning algorithms:
+
+liner_ Region: linear regression (including ridge regression)
+Perception: perceptron
+logistic_ Logistic regression
+naive_ Bayes: Naive Bayes
+GDA: Gaussian discriminant analysis
+PCA: principal component analysis
+Smo: sequence minimum optimization algorithm
+SVM: support vector machine
+KNN: k-nearest neighbor algorithm
+k_ Means: K-means clustering algorithm
+decision_ Tree: decision tree (ide3, C4.5)
+
+
+
+The following updates will add the integration algorithm and the latest deep learning code suite. If there is a problem, you can add VX communication: 13997171940
